@@ -243,7 +243,7 @@ font-weight: normal;
 .kaufman {
   position: relative;
   overflow: hidden;
-  background-color:#1f1f1f ;
+  background-color:#1f1f1f;
    z-index:-1;
 }
 .kaufman__triangle {
@@ -255,7 +255,7 @@ z-index:0;
 }
 .footer {
 
-background-color: #1f1f1f
+background-color: #1f1f1f;
 }
 .footer__colums {
   min-height: 350px;
