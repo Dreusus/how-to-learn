@@ -250,6 +250,7 @@
 .footer {
   background-color: #1f1f1f;
   display: flex;
+  min-height: 350px;
 }
 
 .footer__colums {
@@ -257,7 +258,7 @@
   display: flex;
   justify-content: space-between;
   width: 90%;
-  min-height: 350px;
+
 }
 
 .footer__author {
