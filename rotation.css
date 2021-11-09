@@ -7,20 +7,6 @@
   }
   }
 
-.zalupa {
-  background-image: url(images/kaufman-triangle.svg);
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  .rotation {
+    animation: rotation 20s infinite linear;
+  }
